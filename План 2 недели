@@ -112,34 +112,11 @@ https://vc.ru/education/2951986-promt-inzhener-kak-stat-specialistom-po-razrabot
           embeddings, поиск похожих документов, векторный поиск  -------06/07/26
 
 День 11. Генерация изображений
-     Изучить
-          Images API
-          промпты
-          стили
-     Практика
-          Создать генератор изображений.
+     Изучить Images API, промпты, стили
 
 День 12. Function Calling / Tools
-     Изучить
-          инструменты
-          вызов функций
-          JSON Schema
-     Практика
-     Сделать
-          Покажи курс доллара
-          Покажи погоду
-          Посчитай стоимость заказа
-          через внешние API.
+     Изучить инструменты, вызов функций, JSON Schema  
 
-День 13. Полноценный AI Assistant
-     Добавить
-          историю
-          настройки
-          выбор модели
-          системный промпт
-          генерацию изображений
-          загрузку файлов
-          поиск по документам
-
-День 14. Финальный проект
-     Создать приложение уровня MVP.
+Изучены статьи 07/07/26
+https://www.reddit.com/r/LocalLLaMA/comments/1t0fg3y/what_exactly_does_pi_harness_mean/?tl=ru
+https://www.reddit.com/r/PromptEngineering/comments/1lkwefr/you_just_need_one_prompt_to_become_a_prompt/?tl=ru
